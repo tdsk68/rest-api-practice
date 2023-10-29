@@ -1,1 +1,5 @@
-# first app
+# Server
+サーバ起動
+```
+flask run
+```
